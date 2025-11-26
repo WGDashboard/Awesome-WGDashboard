@@ -5,7 +5,7 @@ So if you think you implement (parts of) our WGDashboard project, you are welcom
 
 # Community Project Highlights:
 
-- [Noxcis Wiregate](https://github.com/NOXCIS/Wiregate)  
+- [WireGate](https://github.com/NOXCIS/Wiregate)  
   WireGate is a fully automated Docker Based Wireguard & AmneziaWG VPN Sever Deployment & Management Tool
   with and attachable intranet via docker private networks and support for Tor as an exit proxy.
 
