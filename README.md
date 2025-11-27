@@ -13,4 +13,4 @@ So if you think you implement (parts of) our WGDashboard project, you are welcom
 
 - [Proxmox VE Helper-Scripts](https://community-scripts.github.io/ProxmoxVE/scripts?id=wireguard)  
 - [DigitalOcean Marketplace](https://docs.digitalocean.com/products/marketplace/catalog/wgdashboard/)  
-- [Contabo WireGuard Hosting](https://contabo.com/en/wireguard-server/#what-is-wgdashboard-and-why-should-i-use-it)  
+- [Contabo WireGuard Hosting](https://contabo.com/en/wireguard-server/)  
