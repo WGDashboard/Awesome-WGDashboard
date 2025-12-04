@@ -8,6 +8,8 @@ So if you think you implement (parts of) our WGDashboard project, you are welcom
 - [WireGate](https://github.com/NOXCIS/Wiregate)  
   WireGate is a fully automated Docker Based Wireguard & AmneziaWG VPN Sever Deployment & Management Tool
   with and attachable intranet via docker private networks and support for Tor as an exit proxy.
+- [WGDashboard over sing-box](https://github.com/jinndi/WGDashboard-sing-box)
+  🐉 WGDashboard over Sing-Box in Docker
 
 ## Community/Enterprise Usage:
 
